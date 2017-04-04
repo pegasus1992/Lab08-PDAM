@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Lab10</string>
+    <string name="app_name">Lab08 PDAM</string>
     <string name="title_activity_maps">Map</string>
     <string name="button">Find Address</string>
     <string name="text">Address</string>
