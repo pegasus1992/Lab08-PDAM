@@ -9,8 +9,6 @@ import android.os.Bundle;
 import android.support.v4.os.ResultReceiver;
 import android.util.Log;
 
-import com.edu.eci.cosw.lab10.R;
-
 import java.io.IOException;
 import java.util.List;
 import java.util.Locale;
